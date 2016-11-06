@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>Blueprint for building eXistdb xar applications</description>
-    <author>John Doe</author>
+    <description>Prototype for performance testing and colloqium demo</description>
+    <author>Duncan Paterson</author>
     <website/>
     <status>alpha</status>
     <license>BSD-2-Clause</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>AppBlueprint</target>
+    <target>protoColl</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
     <deployed/>
