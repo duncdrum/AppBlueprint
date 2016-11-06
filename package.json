@@ -1,7 +1,7 @@
 {
-  "name": "AppBlueprint",
+  "name": "protoColl",
   "version": "0.0.1",
-  "description": "Blueprint for building eXistdb xar applications",
+  "description": "Prototype for performance testing and colloqium demo",
   "url":"http://exist-db.org/apps",
   "main": "resources/js/app.js",
   "directories": {
